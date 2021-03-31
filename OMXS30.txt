@@ -1,0 +1,31 @@
+fullname,ticker
+ABB Ltd,ABB.ST
+Alfa Laval,ALFA.ST
+Autoliv SDB,ALIV-SDB.ST
+ASSA ABLOY B,ASSA-B.ST
+Atlas Copco A,ATCO-A.ST
+Atlas Copco B,ATCO-B.ST
+AstraZeneca,AZN.ST
+Boliden,BOL.ST
+Electrolux B,ELUX-B.ST
+Ericsson B,ERIC-B.ST
+Essity B,ESSITY-B.ST
+Evolution Gaming Group,EVO.ST
+Getinge B,GETI-B.ST
+Hexagon B,HEXA-B.ST
+Hennes & Mauritz B,HM-B.ST
+Investor B,INVE-B.ST
+Kinnevik B,KINV-B.ST
+Nordea Bank Abp,NDA-SE.ST
+Sandvik,SAND.ST
+SCA B,SCA-B.ST
+SEB A,SEB-A.ST
+Securitas B,SECU-B.ST
+Sv. Handelsbanken A,SHB-A.ST
+Skanska B,SKA-B.ST
+SKF B,SKF-B.ST
+Swedbank A,SWED-A.ST
+Swedish Match,SWMA.ST
+Tele2 B,TEL2-B.ST
+Telia Company,TELIA.ST
+Volvo B,VOLV-B.ST
