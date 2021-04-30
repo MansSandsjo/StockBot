@@ -1,0 +1,31 @@
+fullname,ticker
+ABB Ltd,ABB
+Alfa Laval, ALFA
+ASSA ABLOY B,ASSAb
+AstraZeneca, AZN
+Atlas Copco AB A, ATCOa
+Atlas Copco AB B, ATCOb
+Autoliv SDB,ALIVsdb
+Boliden AB, BOL
+Electrolux AB Class B, ELUXb
+Essity AB B, ESSITYb
+Evolution Gaming Group AB, EVOG
+Getinge AB ser B, GETIb
+H & M Hennes & Mauritz AB B, HMb
+Hexagon AB ser. B, HEXAb
+Investor AB ser. B, INVEb
+Kinnevik Investment AB ser. B, KINVb
+Telefonaktiebolaget LM Ericsson Class B, ERICb
+Nordea Bank Abp, NDASE
+Sandvik AB, SAND
+Svenska Cellulosa SCA AB B, SCAb
+Skandinaviska Enskilda Banken AB A, SEBa
+Securitas AB ser. B, SECUb
+Skanska AB ser. B, SKAb
+AB SKF B, SKFb
+Svenska Handelsbanken AB A, SHBa
+Swedbank AB ser A, SWEDa
+Swedish Match AB, SWMA
+Tele2 AB, TEL2b
+Telia Company AB, TELIA
+Volvo AB ser. B, VOLVb
